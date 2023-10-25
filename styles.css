@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
+*{
+	border: solid
+}
 #yellow{
 	background-color : yellow;
+	
 	border-width : 1px;
 	border-color: green;
 	
